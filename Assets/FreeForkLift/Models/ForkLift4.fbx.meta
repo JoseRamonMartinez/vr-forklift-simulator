@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: ddd9af145e7fd4f44bdb7ce87b542eec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: forklift truck
+    100002: forklift truck.007
+    100004: forklift truck.008
+    100006: //RootNode
+    100008: Steer_Forklift
+    100010: WheelBL
+    100012: WheelBR
+    100014: WheelFL.001
+    100016: WheelFR
+    100018: Mast
+    100020: Cylinder
+    100022: Cylinder.002
+    100024: Cylinder.003
+    100026: Cylinder.004
+    100028: WheelFrontLeft
+    100030: WheelFrontRight
+    100032: WheelRearLeft
+    100034: WheelRearRight
+    400000: forklift truck
+    400002: forklift truck.007
+    400004: forklift truck.008
+    400006: //RootNode
+    400008: Steer_Forklift
+    400010: WheelBL
+    400012: WheelBR
+    400014: WheelFL.001
+    400016: WheelFR
+    400018: Mast
+    400020: Cylinder
+    400022: Cylinder.002
+    400024: Cylinder.003
+    400026: Cylinder.004
+    400028: WheelFrontLeft
+    400030: WheelFrontRight
+    400032: WheelRearLeft
+    400034: WheelRearRight
+    2300000: forklift truck
+    2300002: forklift truck.007
+    2300004: forklift truck.008
+    2300006: Steer_Forklift
+    2300008: WheelBL
+    2300010: WheelBR
+    2300012: WheelFL.001
+    2300014: WheelFR
+    2300016: Mast
+    2300018: Cylinder
+    2300020: Cylinder.002
+    2300022: Cylinder.003
+    2300024: Cylinder.004
+    2300026: WheelFrontLeft
+    2300028: WheelFrontRight
+    2300030: WheelRearLeft
+    2300032: WheelRearRight
+    3300000: forklift truck
+    3300002: forklift truck.007
+    3300004: forklift truck.008
+    3300006: Steer_Forklift
+    3300008: WheelBL
+    3300010: WheelBR
+    3300012: WheelFL.001
+    3300014: WheelFR
+    3300016: Mast
+    3300018: Cylinder
+    3300020: Cylinder.002
+    3300022: Cylinder.003
+    3300024: Cylinder.004
+    3300026: WheelFrontLeft
+    3300028: WheelFrontRight
+    3300030: WheelRearLeft
+    3300032: WheelRearRight
+    4300000: Steer_Forklift
+    4300002: forklift truck.008
+    4300004: forklift truck.007
+    4300006: WheelBL
+    4300008: WheelBR
+    4300010: WheelFR
+    4300012: forklift truck
+    4300014: WheelFL.001
+    4300016: Mast
+    4300018: Cylinder.003
+    4300020: Cylinder.004
+    4300022: Cylinder.002
+    4300024: Cylinder
+    4300026: WheelRearRight
+    4300028: WheelRearLeft
+    4300030: WheelFrontRight
+    4300032: WheelFrontLeft
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
