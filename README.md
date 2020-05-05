@@ -2,6 +2,8 @@
 
 This minigame was developed with Unity and C#. Also, the project focus in the Linear-Drive Interaction from SteamVR plugin.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4HMGxeJCaqc/0.jpg)](https://www.youtube.com/watch?v=4HMGxeJCaqc)
+
 ## Getting Started
 
 Download the project and open it with unity.
