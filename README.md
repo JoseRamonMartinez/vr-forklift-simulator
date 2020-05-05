@@ -35,7 +35,7 @@ Version 1.0
 
 ## Authors
 
-* **Jose Ramon Martinez Riveiro* - *Developer* - [PurpleBooth](https://github.com/joseramonmartinez)
+* **Jose Ramon Martinez Riveiro* - *Developer* - [joseramonmartinez](https://github.com/joseramonmartinez)
 
 
 ## License
