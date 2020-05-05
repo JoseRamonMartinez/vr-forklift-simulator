@@ -1,4 +1,4 @@
-# ForkLift Simulator Unity VR MiniGame
+# ForkLift VR Simulator
 
 This minigame was developed with Unity and C#. Also, the project focus in the Linear-Drive Interaction from SteamVR plugin.
 
@@ -40,7 +40,7 @@ Version 1.0
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Acknowledgments
 
