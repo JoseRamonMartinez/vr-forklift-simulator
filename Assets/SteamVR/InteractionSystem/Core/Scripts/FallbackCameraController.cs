@@ -96,13 +96,16 @@ namespace Valve.VR.InteractionSystem
 		//-------------------------------------------------
 		void OnGUI()
 		{
+			/*
+			
 			if ( showInstructions )
 			{
 				GUI.Label( new Rect( 10.0f, 10.0f, 600.0f, 400.0f ),
-					"WASD EQ/Arrow Keys to translate the camera\n" +
-					"Right mouse click to rotate the camera\n" +
-					"Left mouse click for standard interactions.\n" );
+					"Arrow Keys to move the forklift truck\n" +
+					"The red handle to rise/get off the forklift\n"
+					 );
 			}
+			*/
 		}
 	}
 }

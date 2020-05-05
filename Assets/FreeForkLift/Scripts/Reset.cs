@@ -6,6 +6,7 @@ public class Reset : MonoBehaviour {
 
     Transform _tr;
     private Vector3 curPos;
+    //public GameObject pause;
 	
     void Awake()
     {
@@ -19,7 +20,8 @@ public class Reset : MonoBehaviour {
         {
             // _tr.rotation = new Quaternion(0,90,0,0);
             // transform.position = curPos;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+           SceneManager.LoadScene("level1");
+          //pause.SetActive(true);
         }
 	}
 }

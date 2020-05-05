@@ -11,7 +11,7 @@ namespace Valve.VR.InteractionSystem.Sample
     {
         public void OnButtonDown(Hand fromHand)
         {
-            ColorSelf(Color.cyan);
+            SceneManager.LoadScene("level1", LoadSceneMode.Single);
             fromHand.TriggerHapticPulse(1000);
         }
 

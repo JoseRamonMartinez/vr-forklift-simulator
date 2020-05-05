@@ -1,10 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
+
+
 
 public class ForkController : MonoBehaviour {
-
+    
     public Transform fork; 
     public Transform mast;
+
+    public GameObject pause;
+
+ 
     public float speedTranslate; //Platform travel speed
     public Vector3 maxY; //The maximum height of the platform
     public Vector3 minY; //The minimum height of the platform
@@ -13,8 +20,13 @@ public class ForkController : MonoBehaviour {
 
     private bool mastMoveTrue = false; //Activate or deactivate the movement of the mast
 
+
     // Update is called once per frame
-    void FixedUpdate () {
+    
+
+
+    public void FixedUpdate () {
+        
 
         Debug.Log(mastMoveTrue);
         if(fork.transform.localPosition.y >= maxYmast.y && fork.transform.localPosition.y < maxY.y)
@@ -31,6 +43,8 @@ public class ForkController : MonoBehaviour {
         {
             mastMoveTrue = false;
         }
+
+        //Aqui Cambiar
       
         if (Input.GetKey(KeyCode.PageUp))
         {
@@ -53,6 +67,21 @@ public class ForkController : MonoBehaviour {
             }
 
         }
+        //
+        if (Input.GetKey(KeyCode.H))
+        {
+            pause.SetActive(true);
+                 
+        }
+
+
+
+        
+
+
 
     }
+
 }
+
+
