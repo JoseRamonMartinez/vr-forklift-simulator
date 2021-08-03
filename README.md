@@ -1,6 +1,5 @@
 # ForkLift VR Simulator
-
-This minigame was developed with Unity and C#. Also, the project focus in the Linear-Drive Interaction from SteamVR plugin.
+Linear-Drive Interaction implementations with SteamVR plugin.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4HMGxeJCaqc/0.jpg)](https://www.youtube.com/watch?v=4HMGxeJCaqc)
 
@@ -37,7 +36,7 @@ Version 1.0
 
 ## Authors
 
-* **Jose Ramon Martinez Riveiro* - *Developer* - [joseramonmartinez](https://github.com/joseramonmartinez)
+* *Jose Ramon Martinez Riveiro* - *Developer* - [joseramonmartinez](https://github.com/joseramonmartinez)
 
 
 ## License
